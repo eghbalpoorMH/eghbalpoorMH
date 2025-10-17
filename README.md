@@ -7,15 +7,6 @@ Experienced in **Agile**, **DevOps**, and **clean architecture** for fast, stabl
 
 ---
 
-### 🚀 Highlights
-- 🧩 **Classeh** – built classeh new white label android app service, working on ai agent services and working on backend modules.  
-- 🧠 **Team Lead at Vitech (Remote)** – leading back-end team, managing multiple products (LMS, online game, charity app).  
-- 🔬 **Hubmeta** – optimized research-data processing backend, improved query efficiency and scalability.  
-- 🧩 **Classeh** – built internal CRM saving 60% of sales team time, plus a high-performance WhatsApp bot reaching 100k+ users.  
-- 🏗️ **Co-founder of BizRiz** – developed and maintained multi-service architecture (Django + PostgreSQL + Nginx).
-
----
-
 ### 🧰 Tech Stack
 `Python` • `Django` • `DRF` • `PostgreSQL` • `Celery` • `DevOps` • `Docker` • `Git Flow` 
 `Linux` • `Scrapy` • `Selenium` • `Angular` •`Nginx` • `Gunicorn` • `TypeScript` • `NestJS`
